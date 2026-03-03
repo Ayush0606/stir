@@ -1,0 +1,13 @@
+.next/
+node_modules/
+npm-debug.log
+README.md
+.git
+.gitignore
+.env*
+!.env.example
+*.md
+__tests__/
+coverage/
+.vscode/
+.idea/

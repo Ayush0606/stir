@@ -1,0 +1,3 @@
+# Ignore tracking prevention warnings from external image CDNs
+# These are browser security features, not application errors
+**/tracking-prevention-*
